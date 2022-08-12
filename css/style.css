@@ -169,6 +169,7 @@ header .follow a:hover {
 
 .home .image {
     flex: 1 1 40rem;
+    border-radius: 25px
 }
 
 .home .image img {
